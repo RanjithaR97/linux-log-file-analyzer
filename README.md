@@ -63,6 +63,3 @@ See the screenshots folder.
 
 This project demonstrates Linux log analysis, shell scripting, command automation, aliases, and scheduled task execution.
 
-## Learning Outcome
-
-This project demonstrates Linux log analysis, shell scripting, command automation, aliases, and scheduled task execution.
