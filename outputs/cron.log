@@ -1,0 +1,14 @@
+
+ranjitha@DESKTOP-NFV16LG:-$ crontab -e
+crontab: installing new crontab
+ranjitha@DESKTOP-NFV16LG:~$ cat /var/log/syslog
+2026-06-23T09:21:53.350767+00:00 DESKTOP-NFV16LG rsyslogd: [origin software="rsyslogd" swVersion="8.2512.0" x-pid="286" x-info="https://www.rsyslog.com"] rsysl
+2026-06-23T09:21:53.361329+00:00 DESKTOP-NFV16LG systemd[1]: logrotate.service: Deactivated successfully
+2026-06-23T09:21:53.363231+00:00 DESKTOP-NFV16LG systemd[1]: Finished logrotate.service Rotate log files. 2026-06-23T09:22:01.714305+00:00 DESKTOP-NFV16LG CRON [1321]: (ranjitha) CMD (/home/ranjitha/weekend/test.sh)
+2026-06-23T09:23:01.800663+00:00 DESKTOP-NFV16LG CRON [1343]: (ranjitha) CMD (/home/ranjitha/weekend/test.sh)
+2026-06-23T09:24:01.856636+00:00 DESKTOP-NFV16LG CRON [1352]: (ranjitha) CMD (/home/ranjitha/weekend/test.sh)
+2026-06-23T09:25:01.895202+00:00 DESKTOP-NFV16LG CRON [1360]: (ranjitha) CMD (/home/ranjitha/weekend/test.sh)
+2026-06-23T09:26:01.946627+00:00 DESKTOP-NFV16LG CRON [1369]: (ranjitha) CMD (/home/ranjitha/weekend/test.sh)
+2026-06-23T09:27:02.001748+00:00 DESKTOP-NFV16LG CRON [1377]: (ranjitha) CMD (/home/ranjitha/weekend/test.sh)
+2026-06-23T09:28:01.056489+00:00 DESKTOP-NFV16LG CRON [1417]: (ranjitha) CMD (/home/ranjitha/weekend/test.sh)
+2026-06-23T09:28:01.070235+00:00 DESKTOP-NFV16LG systemd[1]: Starting apt-daily-upgrade.service Daily apt upgrade and clean activities..
