@@ -1,0 +1,5 @@
+ranjitha@DESKTOP-NFV1616:~$ logsummary
+Total lines: 19
+Count Error: 19
+Count warning:0
+ranjitha@DESKTOP-NFV1616:~$
