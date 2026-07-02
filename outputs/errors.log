@@ -1,0 +1,23 @@
+ran litha@DESKTOP-NFV16L6:$ cat errors.log
+2826-06-15T15:21:17.526191+00:00 DESKTOP NEV1616 systemd[1]: apport autoreport.path Process error reports when automatic reporting is enabled (file watch) skipped, unget condition check ConditionPathExists-/va
+r/lib/apport/autoreport
+2026 06 15715:21:17.526209+00:00 DESKTOP NFV1616 systemd[1]: apport autoceport.timer Process error reports when automatic reporting is enabled (timer hased) skipped, unmet condition check ConditionPathExists-/
+var/lib/apport/autoreport
+2026 06-15T15:21:17.578548+00:00 DESKTOP NFV1616 kernel: RAS: Correctable Errors collector initialized.
+2025-06-15T15:21:17.528765+00:00 DESKTOP-NIV16LG kernel: WSL (110) CRROR: CheckConnection: getaddrinfo() failed: -5
+2026-06 15T15:26:37.471878-00:00 DESKTOP NFV16L6 ubuntu insights[3732]: 2026/06/15 15:26:37 WARN Failed to run usl.exe verror-"exit status 1"
+2026-06-15T15:26:39.586887+00:00 DESKTOP-NIV16LG ubuntu-insights (3732): 2026/06/15 15:26:39 CRROR failed to collect insights: insights write failed: report already exists for this period
+2026-06-16106:28:39.085164+00:00 DESKTOP NFV16L6 systemd[1]: apport autoreport.path Process error reports when automatic reporting is enabled (file watch) skipped, uniret, condition check Conditionllathexists-/va
+r/lib/apport/autoreport 2026-06-16106:20:39.085183+00:00 DESKTOP NFV16LG systemd[1]: apport-autoreport.timer Process error reports when automatic reporting is enabled (timer based) skipped, unmet condition check ConditionPathexists=/var/lib/apport/autoreport
+2026-06-16106:20:39,086393+00:00 DESKTOP-NEV16LG kernel: RAS: Correctable trrors collector initialized. 2026-06-16706:20:39.086644+00:00 DESKTOP-NFV16LG kernel: WSL (108) ERROR: CheckConnection: getaddrinfo() failed: -5
+2026-06-16706:20:42.049260+00:00 DESKTOP-NFV16LG kernel: WSL (2 init-systend(Ubuntu)) ERROR: WaitForBootProcess: 3488: /sbin/init failed to start tart within 10000ms
+2026-06-16T06:26:16,441809+00:00 DESKTOP-NFV16LG ubuntu-insights[4842]: 2026/06/16 06:26:16 WARN failed to run wal.exe verror-"exit status 1
+2026-06-16106:26:17.972292+00:00 DESKTOP-NFV16LG ubuntu-insights[4842]: 2026/06/16 06:26:17 ERROR failed to collect insights: insights write failed: report already exists for this period
+2026-06-23708:38:13.567258+00:00 DESKTOP NEVI616 kernel: RAS: Correctable Frrors collector initialized.
+2026-06-23708:30:13.562499+00:00 DESKTOP-NFV16LG kernel: WSL (107) ERROR: CheckConnection: getaddrinfo() failed: -5
+2026 -06 23708:38:13.562573+00:00 DESKTOP NFV161G kernel: MSI (2 init-systead(Ubuntu)) FRROR: WaitForRootProcess
+: 3488: /shin/init failed to start within 10000ης 2026-06-23108:38:13.562594+00:00 DESKTOP-NFV16LG kernel: WSL (2 Interop) ERROR: CreateLoginSession:2758: Timed out waiting for user session for uld-1000
+2026 06 23108:38:13.563353+00:00 DESKTOP NEVI6L6 systemd[1]: apport autoreport.path Process error reports when automatic reporting is enabled (file watch) skipped, unmet condition check ConditionPathExists-/va
+r/lib/apport/autoreport
+06 23108:38:13.563362+00:00 DESKTOP NFV1616 systemd[1]: apport autoreport.timer Process error reports when automatic reporting is enabled (timer based) skipped, unmet condition check ConditionPathExists-/
+2026 var/lib/apport/autureport
