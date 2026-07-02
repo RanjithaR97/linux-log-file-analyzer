@@ -1,0 +1,9 @@
+# Alias
+alias logerror='grep -i "error" /var/log/syslog'
+
+# Function
+logsummary() {
+echo "Total Lines: $(wc -l < /var/log/syslog)"
+echo "Error Lines: $(grep -ic error /var/log/syslog)"
+echo "Warning Lines: $(grep -ic warning /var/log/syslog)"
+}
